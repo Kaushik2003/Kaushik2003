@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kaushiksam58090" target="blank"><img src="https://img.shields.io/twitter/follow/kaushiksam58090?logo=twitter&style=for-the-badge" alt="kaushiksam58090" /></a> </p>
 
-- 🔭 I’m currently working on **Aura.Farm**
+- 🔭 I’m currently working on **Stacy and Aura.Farm**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
