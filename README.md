@@ -34,8 +34,8 @@ const kaushik = {
 
 ### 🚀 Currently building
 
-- **⭐ [Nordstern](https://www.nordstern.live/)** — a live payments platform (fiat on/off-ramp) that moves money between Indian bank rails (UPI · IMPS · NEFT) and blockchain settlement, with KYC & compliance built in. &nbsp;·&nbsp; *TypeScript · Node.js · PostgreSQL · Docker*
-- **🤖 [StacyVM](https://github.com/StacyOS/stacyvm)** — an open-source Go engine that runs untrusted code in isolated sandboxes; swap the isolation backend (Docker · Firecracker · gVisor) from one config line. Cut cold-start **1,165 ms → 28 ms (41×)**. &nbsp;·&nbsp; *Go · Apache-2.0*
+- **⭐ [Nordstern](https://www.nordstern.live/)** — payments infrastructure linking Indian bank rails (UPI · IMPS · NEFT) to on-chain settlement. Think a compliant on/off-ramp for moving money between banks and blockchains. &nbsp;·&nbsp; *TypeScript · Node.js · Postgres*
+- **🤖 [StacyVM](https://github.com/StacyOS/stacyvm)** — an open-source Go runtime that runs untrusted code safely in sandboxes. Swap the isolation backend — Docker, Firecracker, gVisor — with a single line of config, and cold starts boot in ~28 ms. &nbsp;·&nbsp; *Go · open-source*
 
 > 🏆 Outside of building, I like jumping into hackathons — grateful to have come out on top of **8** so far (~**$7,850** in prizes).
 
